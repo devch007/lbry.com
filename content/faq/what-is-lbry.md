@@ -1,5 +1,5 @@
 ---
-title: What is LBRY exactly? Is it a protocol, an app, a website, or a company?
+title: What is LBRY exactly? Is it a protocol, an app, a website, or a company??
 category: LBRY 101
 order: 1
 ---
